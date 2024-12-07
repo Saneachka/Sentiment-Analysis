@@ -4,7 +4,7 @@ This project contains a Jupyter Notebook that performs sentiment analysis on cla
 
 ### Repository Contents
 
-Sentiment_Analysis_Russian_Classics.ipynb — The main notebook with steps for preprocessing, model configuration, and analysis.
+Sentiment_Analysis.ipynb — The main notebook with steps for preprocessing, model configuration, and analysis.
 Sample Text Files — Input files with excerpts from Russian literary classics (if included).
 README — Description of the repository.
 
